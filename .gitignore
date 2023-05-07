@@ -157,3 +157,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Ignore the IDE project files
+.vscode/
+*.code-workspace
+.vscode
